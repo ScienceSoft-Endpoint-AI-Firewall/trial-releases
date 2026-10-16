@@ -1,6 +1,6 @@
-# AI Firewall — Trial releases
+# ScienceSoft AI Endpoint Firewall — Trial releases
 
-This repository is **only for downloading trial builds** of AI Firewall, the data-loss-prevention agent for organisations whose staff use AI assistants. It holds no source code — it exists to host the trial installers.
+This repository is **only for downloading trial builds** of ScienceSoft AI Endpoint Firewall, the data-loss-prevention agent for organisations whose staff use AI assistants. It holds no source code — it exists to host the trial installers.
 
 ## Download
 
