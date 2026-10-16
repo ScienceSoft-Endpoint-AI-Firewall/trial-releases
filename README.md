@@ -10,7 +10,7 @@ Open the newest release at the top to install the latest version, or pick an ear
 
 | Platform | File to download |
 |---|---|
-| macOS (Apple silicon) | `AI-Firewall-Trial-<version>-arm64.dmg` (drag to Applications) or `.pkg` (installer) |
+| macOS (Apple silicon) | `AI-Firewall-Trial-<version>-arm64.pkg` (installer) |
 | Windows (64-bit) | `AI-Firewall-Trial-<version>-x64.exe` |
 
 Versions with a suffix such as `-alpha` are early pre-release builds.
